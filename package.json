@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Instant ethereum wallet creator",
   "main": "index.js",
+  "bin": {
+    "i-need-a-wallet": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/talhasch/i-need-a-wallet"
