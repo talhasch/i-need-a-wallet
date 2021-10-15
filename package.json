@@ -1,0 +1,19 @@
+{
+  "name": "i-need-a-wallet",
+  "version": "0.0.1",
+  "description": "Instant ethereum wallet creator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talhasch/i-need-a-wallet"
+  },
+  "author": "Talha Bugra Bulut <talhabugrabulut@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/talhasch/i-need-a-wallet",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^5.4.7"
+  }
+}
