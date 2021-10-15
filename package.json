@@ -1,6 +1,6 @@
 {
   "name": "i-need-a-wallet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Instant ethereum wallet creator",
   "main": "index.js",
   "bin": {
